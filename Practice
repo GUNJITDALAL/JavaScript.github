@@ -1,0 +1,10 @@
+// let user='Gunjit \nDalaa\bl'
+// console.log(user)
+let bool=5>6
+console.log(typeof bool)
+
+let user=null
+console.log(typeof user)
+
+let num=5
+console.log(typeof (5/"ritu"))
